@@ -13,8 +13,8 @@ export AD2_ALLOWED_HOSTS='*'
 # Modify for your own test env
 export AD2_DB_HOST='127.0.0.1'
 export AD2_DB_NAME='ad2dispatch'
-export AD2_DB_USER='ad2dispatch'
-export AD2_DB_PASSWORD='password'
+export AD2_DB_USER='root'
+export AD2_DB_PASSWORD='admin'
 export AD2_DB_PORT='3306'
 
 # Ignore unless needed
